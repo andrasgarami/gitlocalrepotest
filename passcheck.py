@@ -1,0 +1,2 @@
+def forfun():
+    print('Joke')
